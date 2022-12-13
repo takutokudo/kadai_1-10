@@ -76,7 +76,7 @@ footer {
   .step-box {
     width: 90%;   /*修正点 */
     margin: 0 auto;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .step-box:last-child {
