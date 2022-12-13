@@ -72,13 +72,16 @@ footer {
     width: 100%;
     display: block;
   }
-  
+
   .step-box {
-    margin-left: 30px;
+    width: 90%;   /*修正点 */
+    margin: 0 auto;
     margin-bottom: 30px;
   }
 
   .step-box:last-child {
+    width: 90%;
+    margin: 0 auto;
     margin-bottom: 0;
   }
 }
